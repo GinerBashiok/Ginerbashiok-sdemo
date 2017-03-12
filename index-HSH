@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>煌上煌-酱卤之煌</title>
+		<link rel="stylesheet" type="text/css" href="css/JLZHcss.css"/>
+	</head>
+	<body>
+		<header>
+			<div><input type="text" name="" id="find" value="我想查找"><button></button></div>
+			<div><p>8375.28 ↑164.28 ↑2.00% 214.65亿元</p></div>
+		</header>
+		<nav>
+			<ul>
+				<li>首页</li>
+				<li>酱卤之煌</li>
+				<li>新闻中心</li>
+				<li>产品展示</li>
+				<li>特许加盟</li>
+				<li>投资者关系</li>
+				<li>百味至尚</li>
+			</ul>
+		</nav>
+		<article>
+				<section id="sectionleft">
+					<nav id="showList">
+						<p>产品展示</p>
+						<ul>
+							<li>鲜货产品</li>
+							<li>包装产品</li>
+							<li>发酵蔬菜</li>
+							<li>卤卤鲜</li>
+						</ul>
+					</nav>
+					<img id="phoneonline" src="" alt="加盟热线"/>
+					<img id="tmallCom" src="" alt="天猫商城"/>
+				</section>
+				<section id="sectionright">
+					<div id="lunbo">
+						<div id="lunboleft"></div>
+						<div id="lunboright"></div>
+					</div>
+					<div><img src="" alt="腊香鸭排" /><p>腊香鸭排</p><div id="plus"></div></div>
+					<div><img src="" alt="香卤猪手" /><p>香卤猪手</p><div id="plus"></div></div>
+					<div><img src="" alt="香卤鸭胗" /><p>香卤鸭胗</p><div id="plus"></div></div>
+					<div><img src="" alt="香卤鸭锁骨" /><p>香卤鸭锁骨</p><div id="plus"></div></div>
+					<div><img src="" alt="豆油皮" /><p>豆油皮</p><div id="plus"></div></div>
+					<div><img src="" alt="脆皮肠" /><p>脆皮肠</p><div id="plus"></div></div>
+					<div><img src="" alt="香炒带鱼" /><p>香炒带鱼</p><div id="plus"></div></div>
+					<div><img src="" alt="海带丝" /><p>海带丝</p><div id="plus"></div></div>
+					<div><img src="" alt="凉拌凤爪" /><p>凉拌凤爪</p><div id="plus"></div></div>
+					<div><img src="" alt="风味萝卜干" /><p>风味萝卜干</p><div id="plus"></div></div>
+					<div><img src="" alt="基围虾" /><p>基围虾</p><div id="plus"></div></div>
+					<div><img src="" alt="芙蓉鸡" /><p>芙蓉鸡</p><div id="plus"></div></div>
+				</section>
+			</article>
+			<footer>
+				<ul>
+					<li>联系我们</li>
+					<li>版权声明</li>
+					<li>招聘信息</li>
+				</ul>
+				<p>All Rights Reserved 版权所有 江西煌上煌集团食品股份有限公司</p>
+				<p>赣ICP备09006167号-2</p>
+			</footer>
+		
+	</body>
+</html>
